@@ -1,7 +1,7 @@
 # ABOUT- ME, Hello, I'am  Junqueira Dev Eduardo!
 
 ![JunqueiraDevEduardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunqueiraDevEduardo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunqueiraDevEduardo&layout=large&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunqueiraDevEduardo&layout=compact&theme=radical)  
 
 ---
 # Languages that I most like for preference:
