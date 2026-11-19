@@ -1,7 +1,9 @@
 # ABOUT - ME, Hello, I'm  Junqueira Dev Eduardo!
 
-![JunqueiraDevEduardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunqueiraDevEduardo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunqueiraDevEduardo&layout=compact&theme=radical)  
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JunqueiraDevEduardo&show_icons=true&theme=radical" alt="JunqueiraDevEduardo GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunqueiraDevEduardo&layout=compact&card_width=320&theme=radical" alt="Top Languages"/>
+</p>
 
 # Languages that I most like for preference:
 <p>
